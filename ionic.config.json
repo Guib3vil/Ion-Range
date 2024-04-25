@@ -1,0 +1,7 @@
+{
+  "name": "Ion-Range",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
